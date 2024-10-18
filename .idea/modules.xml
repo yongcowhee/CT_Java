@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CT_JAVA.iml" filepath="$PROJECT_DIR$/CT_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sol_34_DFS/Sol_34_DFS.iml" filepath="$PROJECT_DIR$/Sol_34_DFS/Sol_34_DFS.iml" />
     </modules>
   </component>
 </project>
